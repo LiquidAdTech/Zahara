@@ -212,11 +212,7 @@ Step 4: Submit a PR with your changes! 🚀
 - push your fork to your GitHub repo 
 - submit a PR from there 
 
-# Support / talk with founders
-- [Schedule Demo 👋](https://calendly.com/d/4mp-gd3-k5k/berriai-1-1-onboarding-litellm-hosted-version)
-- [Community Discord 💭](https://discord.gg/wuPM9dRgDw)
-- Our numbers 📞 +1 (770) 8783-106 / ‭+1 (412) 618-6238‬
-- Our emails ✉️ ishaan@berri.ai / krrish@berri.ai
+# Support
 
 # Why did we build this 
 - **Need for simplicity**: Our code started to get extremely complicated managing & translating calls between Azure, OpenAI and Cohere.
@@ -232,7 +228,5 @@ Step 4: Submit a PR with your changes! 🚀
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-<a href="https://github.com/BerriAI/litellm/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=BerriAI/litellm" />
-</a>
+
 
