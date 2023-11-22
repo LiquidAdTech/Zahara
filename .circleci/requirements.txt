@@ -1,0 +1,11 @@
+# used by CI/CD testing
+openai
+python-dotenv
+tiktoken
+importlib_metadata
+baseten
+cohere
+redis
+anthropic
+boto3
+appdirs
